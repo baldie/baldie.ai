@@ -1,0 +1,9 @@
+{
+  "name": "node",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google/generative-ai": "^0.2.1",
+    "elevenlabs": "^0.2.0"
+  },
+  "author": "David Baldie"
+}
